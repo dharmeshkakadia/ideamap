@@ -1,0 +1,2 @@
+# ideamap
+Validate your idea
